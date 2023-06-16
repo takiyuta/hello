@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NumberGuessingGame {
+public class  kazuate{
     public static void main(String[] args) {
         int targetNumber = 75; // プログラマが設定した数
         int maxTries = 5; // ユーザが試行できる最大回数
